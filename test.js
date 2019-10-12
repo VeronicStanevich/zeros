@@ -38,6 +38,7 @@ it('should calculate the number of zeros 0', () => {
 });
 
 it('should calculate the number of zeros 0', () => {
+
   assert.equal(zeros('55!!*77!!*99!!*55!!*77!!*99!!*55!!*77!!*99!!*55!!*77!!*99!!'), 0);
 });
 
